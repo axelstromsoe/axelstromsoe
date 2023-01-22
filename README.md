@@ -8,4 +8,4 @@ Jag är webbutvecklingsstudent på Mittuniversitetet i Sundsvall och läser för
 * CSS
 * JavaScript
 * Python
-* R# axelstromsoe
+* R#
